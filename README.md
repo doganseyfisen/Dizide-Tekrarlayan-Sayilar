@@ -7,3 +7,6 @@ Programa aşağıdaki bağlantıdan ulaşabilirsiniz.
 ```
 https://github.com/doganseyfisen/Dizide-Tekrarlayan-Sayilar/blob/main/tekrarlayansayilar.java
 ```
+```
+https://github.com/doganseyfisen/Dizide-Tekrarlayan-Sayilar/blob/main/dizifrekansi.java
+```
